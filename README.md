@@ -4,6 +4,8 @@ This is the Repository of #task1: Basic Banking System for The Sparks Foundation
 Create a Simple dynamic website.
 start with the dummy data in database for upto 10 customers. Customer table has basic fields such as name, email, current balance, etc. Transfers table will record all transfers happened.
 
+You can watch the Video which I have uploaded in the files.
+
 Flow: Home page> View all customers> About us page> Transfer monry page> Select customer to transfer to> view all customers tarnsaction history.
 
 Languages used:
