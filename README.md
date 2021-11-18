@@ -7,4 +7,4 @@ start with the dummy data in database for upto 10 customers. Customer table has 
 Flow: Home page> View all customers> About us page> Transfer monry page> Select customer to transfer to> view all customers tarnsaction history.
 
 Languages used:
-PHP, CSS, Bootstrap, MySQL
+PHP, CSS, Javascript, Bootstrap, MySQL
